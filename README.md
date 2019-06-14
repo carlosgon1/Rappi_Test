@@ -21,6 +21,7 @@ La estructura del proyecto esta constituida de la siguiente manera:
  Carpeta Model : En ella se encuentran el modelo para las peliculas
  Carpeta Repository: En ella se encuentra nuestra clase que interactura entre los datos y los ViewModels.
  Carpeta ViewModel  :En ella se encuentran todos nuestros ViewModel para interactuar con las vistas.
+ Carpeta Pruebas Unitarias: Encontraras una pequeña prueba unitaria para verificar que se estubiera conectando con Room
  
  Finalmente tenemos 4 vistas MainActivity que contiene un viewPager que contiene 3 fragmentos uno para cada
  categoria el fragmento Detalle para ver la imagen selecciona en el reciclerview y finalmente la 
